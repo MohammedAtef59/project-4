@@ -1,0 +1,25 @@
+.navbar {
+    opacity: .7;
+    border-bottom: solid 5px #009ee2;
+}
+
+header {
+    height: 100vh;
+    background-image: url(../images/home.jpg);
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.7);
+    background-blend-mode: color;
+}
+header h1 {
+    text-transform: capitalize;
+}
+.btn:hover{
+    color: black !important;
+}
+.container .sub-head {
+    text-transform: capitalize;
+}
+footer {
+    background-color: #343A40;
+}
